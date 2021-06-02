@@ -1,0 +1,16 @@
+{
+    "wiki": "None",
+    "status": "2",
+    "name": "FIELDMILL01A",
+    "short_en": "Device for measurement of electric fields in the atmosphere.",
+    "image": "/doc/src/img/FIELDMILL01A_sensor.png",
+    "longname_cs": "Měřič elektrického pole",
+    "longname_en": "Electric Field mill interface module",
+    "mark": "50.0",
+    "ust": "",
+    "doc_cs": "<p>None</p>",
+    "short_cs": "Měřič elektrického pole využívající ke snímání mlýnek elektrického pole",
+    "doc_en": "<p>None</p>",
+    "root": "sensors/FIELDMILL01A",
+    "category[]": "sensor"
+}
