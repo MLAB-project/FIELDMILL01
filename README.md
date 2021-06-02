@@ -1,31 +1,27 @@
-
-
-
-<!--- Author:: --->
-<!--- AuthorEmail:: --->
-<!--- Tags:: --->
-<!--- Ust:: --->
+<!--- PrjInfo ---> <!--- Please remove this line after manually editing --->
+<!--- 00a56be08b96043df9e37d6aff7b6990 --->
+<!--- Created:2021-06-02 23:45:24.024291: ---> 
+<!--- Author:: ---> 
+<!--- AuthorEmail:: ---> 
+<!--- Tags:: ---> 
+<!--- Ust:: ---> 
 <!--- Label --->
-# Electric field mill sensor
-
-<!--- ELabel --->
+<!--- ELabel ---> 
 <!--- Name:FIELDMILL01A: --->
+# FIELDMILL01A
 <!--- LongName --->
-
-<!--- ELongName --->
-
+## Electric Field mill interface module
+<!--- ELongName ---> 
 
 <!--- Lead --->
+Device for measurement of electric fields in the atmosphere.
+<!--- ELead ---> 
 
-<!--- ELead --->
+![FIELDMILL01A](doc/img/FIELDMILL01A_QRcode.png) 
 
-A sensor prototype for [Field Mill](https://en.wikipedia.org/wiki/Field_mill)
 
 <!--- Description --->
-
-Device for measurement of electric fields in the atmosphere.
-
 <!--- EDescription --->
 <!--- Content --->
 <!--- EContent --->
-<sub><sup> Generated with [MLABweb](https://github.com/MLAB-project/MLABweb). (2020-01-21)</sup></sub>
+<sub><sup> Generated with [MLABweb](https://github.com/MLAB-project/MLABweb). (2021-06-02)</sup></sub>
