@@ -1,0 +1,16 @@
+description: 'Electric field mill sensor '
+github_branch: FIELDMILL01A
+github_branches:
+- FIELDMILL01A
+github_repo: FIELDMILL01
+github_url: https://github.com/mlab-modules/FIELDMILL01
+homepage: false
+image: doc/img/FIELDMILL01A_sensor.png
+images:
+- doc/img/FIELDMILL01A_sensor.png
+- doc/img/FIELDMILL01A_installation.png
+- doc/img/FIELDMILL01A_QRcode.png
+issues: 0
+mark: 50
+tags: []
+title: FIELDMILL01
