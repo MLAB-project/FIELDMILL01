@@ -7,8 +7,8 @@ github_url: https://github.com/mlab-modules/FIELDMILL01
 homepage: false
 image: doc/img/FIELDMILL01A_sensor.png
 images:
-- doc/img/FIELDMILL01A_sensor.png
 - doc/img/FIELDMILL01A_installation.png
+- doc/img/FIELDMILL01A_sensor.png
 - doc/img/FIELDMILL01A_QRcode.png
 issues: 0
 mark: 50
