@@ -12,5 +12,7 @@ images:
 - doc/img/FIELDMILL01A_installation.png
 issues: 0
 mark: 50
-tags: []
+tags:
+- mlab
+- mlab-module
 title: FIELDMILL01
