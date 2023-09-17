@@ -4,5 +4,5 @@ eda:
   pcb: hw/sch_pcb/FIELDMILL01.kicad_pcb
   type: kicad
 gerbers: hw/cam_profi/
-site: https://github.com/mlab-modules/FIELDMILL01
+site: https://github.com/MLAB-project/FIELDMILL01
 summary: 'Electric field mill sensor '
